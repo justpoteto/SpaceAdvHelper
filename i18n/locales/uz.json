@@ -1,0 +1,86 @@
+{
+  "calculate": "Hisoblash",
+  "lvl": "daraja",
+  "start": "Boshlash",
+  "description": "Bosh sahifaga qaytish uchun sarlavhani bosing",
+  
+  "home": {
+	  "lvlcalculator": "Darajalar kalkulyatori",
+	  "datecalculator": "Daromad kalkulyatori",
+	  "moneycalculator": "Tangalar kalkulyatori",
+	  "bountycalculator": "Baunti kalkulyatori",
+	  "lvlproperty": "Darajalar xususiyatlari",
+	  "earnperhour": "Soatlik daromad",
+	  "about": "Sayt haqida"
+  },
+  
+  "lvlcalculator": {
+	"current_lvl": "Joriy daraja",
+	"desired_lvl": "Istalgan daraja",
+	"money": "tanga",
+	"bounty": "baunti",
+	"rubles": "rubl",
+	"or": "yoki",
+	"result": "{lvl} darajaga yetish uchun sizga kerak bo'ladi",
+	"result_error": "Sizda darajalar pastga qarab ketadimi?",
+	"title": "Darajalar kalkulyatori",
+	"description_1": "Bu yerda siz istalgan darajaga yetish uchun qancha tangalar, baunti yoki rubl kerakligini hisoblashingiz mumkin.",
+	"description_2": "Kurs statik bo'lib, vaqti-vaqti bilan yangilanadi, ma'lumotlar to'g'ri bo'lmasligi mumkin."
+  },
+  
+  "lvlproperty": {
+	"required_lvl": "Kerakli daraja",
+	"result": "{lvl} darajasida:",
+	"miningValue": "tanga/sek",
+	"luggageValue": "tanga",
+	"tankValue": "daqiqa",
+	"shieldValue": "jon",
+	"miningName": "qazib olish tezligi",
+	"luggageName": "sig'im",
+	"tankName": "bak hajmi",
+	"shieldName": "qalqon mustahkamligi",
+	"title": "Darajalar xususiyatlari",
+	"description_1": "Bu yerda har bir darajaning xususiyatlarini ko'rishingiz mumkin:",
+	"description_2": "Qazib olish tezligi, tangalar sig'imi, bak hajmi va qalqon mustahkamligini."
+  },
+
+  "moneycalculator": {
+	"title": "Tangalar kalkulyatori",
+	"description_1": "Bu yerda siz tangalarni rublarda va aksincha hisoblab chiqishingiz mumkin.",
+	"description_2": "Yuqoridagi maydon — tangalar, pastdagi — rublar, kurs statik bo'lib, vaqti-vaqti bilan yangilanadi, ma'lumotlar to'g'ri bo'lmasligi mumkin."
+  },
+
+  "bountycalculator": {
+	"title": "Baunti kalkulyatori",
+	"description_1": "Bu yerda siz bauntini rublarda va aksincha hisoblab chiqishingiz mumkin.",
+	"description_2": "Yuqoridagi maydon — baunti, pastdagi — rublar, kurs statik bo'lib, vaqti-vaqti bilan yangilanadi, ma'lumotlar to'g'ri bo'lmasligi mumkin."
+  },
+
+  "datecalculator": {
+    "current_lvl": "Joriy daraja",
+	"money_required": "Qancha tanga kerak?",
+	"result_1": "Daromad olish uchun",
+	"result_2": "{lvl} darajada",
+	"result_3": "sizga soat sarflash kerak.",
+	"hours": "soat",
+	"title": "Daromad kalkulyatori",
+	"description": "Tangalarni to'plash uchun qancha soat kerakligini hisoblang."
+  },
+
+  "earnperhour": {
+	"your_lvl": "Sizning darajangiz",
+	"result": "Agar siz tinimsiz tangalar yig'sangiz, siz shuncha daromad olishingiz mumkin:",
+	"per_hour": "1 soatda",
+	"per_day": "1 kunda",
+	"per_week": "1 haftada",
+	"title": "Soatlik daromad",
+	"description": "O'yindagi taxminiy daromadni hisoblang"
+  },
+
+  "about": {
+	"title": "SpaceAdv Helper loyihasi haqida",
+	"p1": "SpaceAdv Helper — bu Space Adventure (spaceadv_game_bot) o'yinining ishqibozlari tomonidan yaratilgan va rivojlanayotgan jamiyat loyihasidir. Biz o'yinchilarga o'yinda daromad va xarajatlarni hisoblashda yordam beramiz.",
+	"p2": "Diqqat: Ushbu loyiha Space Adventure o‘yining rasmiy loyihasi emas.",
+	"p3": "Saytning Telegram kanali:"
+  }
+}

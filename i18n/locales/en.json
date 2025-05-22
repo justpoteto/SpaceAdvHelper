@@ -1,0 +1,86 @@
+{
+  "calculate": "Calculate",
+  "lvl": "level",
+  "start": "Start",
+  "description": "Click on the title to return to the main page",
+  
+  "home": {
+	  "lvlcalculator": "Level calculator",
+	  "datecalculator": "Earnings calculator",
+	  "moneycalculator": "Coin calculator",
+	  "bountycalculator": "Bounty calculator",
+	  "lvlproperty": "Properties of levels",
+	  "earnperhour": "Earnings per hour",
+	  "about": "About the site"
+  },
+  
+  "lvlcalculator": {
+	"current_lvl": "Current level",
+	"desired_lvl": "Desired level",
+	"money": "coins",
+	"bounty": "bounty",
+	"rubles": "rubles",
+	"or": "or",
+	"result": "To get to {lvl} you will need",
+	"result_error": "Are your levels going down?",
+	"title": "Level calculator",
+	"description_1": "Here you can calculate how many coins, bounty, rubles you need to reach the desired level.",
+	"description_2": "The rate is static and updated from time to time, the data may not be accurate"
+  },
+  
+  "lvlproperty": {
+	"required_lvl": "Required level",
+	"result": "At {lvl} level:",
+	"miningValue": "coins/sec",
+	"luggageValue": "coins",
+	"tankValue": "minutes",
+	"shieldValue": "divisions",
+	"miningName": "minig speed",
+	"luggageName": "coin capacity",
+	"tankName": "tank volume",
+	"shieldName": "shield strength",
+	"title": "Properties of levels",
+	"description_1": "Here you can see the properties of each level:",
+	"description_2": "Mining speed, coin capacity, tank volume, shield strength"
+  },
+
+  "moneycalculator": {
+	"title": "Coin calculator",
+	"description_1": "Here you can calculate how many coins in rubles and vice versa, just start typing.",
+	"description_2": "The upper field is coins, the lower one is rubles, the rate is static and is updated from time to time, the data may not be accurate"
+  },
+
+  "bountycalculator": {
+	"title": "Bounty calculator",
+	"description_1": "Here you can calculate how much bounty in rubles and vice versa, just start typing.",
+	"description_2": "The top field is bounty, the bottom is rubles, the rate is static and updated from time to time, the data may not be accurate"
+  },
+
+  "datecalculator": {
+    "current_lvl": "Current level",
+	"money_required": "How many coins do you need?",
+	"result_1": "To earn",
+	"result_2": "at level {lvl}",
+	"result_3": "you need to spend",
+	"title": "Earnings calculator",
+	"hours": "hours",
+	"description": "Calculate how many hours it takes to collect coins"
+  },
+
+  "earnperhour": {
+	"your_lvl": "Your level",
+	"result": "If you continuously collect coins, you can earn",
+	"per_hour": "per hour",
+	"per_day": "per day",
+	"per_week": "per week",
+	"title": "Earn per hour",
+	"description": "Calculate the approximate earnings in the game"
+  },
+
+  "about": {
+	"title": "About project SpaceAdv Helper",
+	"p1": "SpaceAdv Helper is a community project created and developed by fans of the game Space Adventure (spaceadv_game_bot). We help players calculate earnings and expenses in the game",
+	"p2": "Important: the project is not an official development of Space Adventure",
+	"p3": "Telegram channel of the site:"
+  }
+}
